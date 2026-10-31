@@ -75,6 +75,10 @@ Python · OpenCV · scikit-learn · NumPy · Matplotlib · Seaborn · Hugging Fa
 - The colour mask misses low-contrast or faded signs.
 - Next steps: add a small CNN classifier (ResNet reaches ~99.7% on GTSRB), replace the colour mask with a learned detector such as YOLO, and test on full-scene data and embedded hardware (Raspberry Pi / Jetson Nano).
 
+## Authors
+
+- **Shrutik Acharya**
+- **Siddhaant Pandit**
 
 ## References
 
